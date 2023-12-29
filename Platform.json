@@ -522,6 +522,196 @@
         "name": "assets/Props/UIPanel.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Punk Girl/Falling Down/Falling Down_000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Punk Girl/Falling Down/Falling Down_000.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Punk Girl/Falling Down/Falling Down_001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Punk Girl/Falling Down/Falling Down_001.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Punk Girl/Falling Down/Falling Down_002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Punk Girl/Falling Down/Falling Down_002.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Punk Girl/Falling Down/Falling Down_003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Punk Girl/Falling Down/Falling Down_003.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Punk Girl/Falling Down/Falling Down_004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Punk Girl/Falling Down/Falling Down_004.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Punk Girl/Falling Down/Falling Down_005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Punk Girl/Falling Down/Falling Down_005.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Props/copa-modificada.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Props/copa-modificada.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pads/Pad_2_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Pads/Pad_2_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pads/Pad_3_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Pads/Pad_3_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pads/Pad_3_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Pads/Pad_3_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pads/Pad_4_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Pads/Pad_4_4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pads/Pad_1_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Pads/Pad_1_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bonus/Bonus_2_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Bonus/Bonus_2_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bonus/Bonus_4_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Bonus/Bonus_4_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Punk Girl/Jump Start/Jump Start_000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Punk Girl/Jump Start/Jump Start_000.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Punk Girl/Jump Start/Jump Start_001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Punk Girl/Jump Start/Jump Start_001.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Punk Girl/Jump Start/Jump Start_002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Punk Girl/Jump Start/Jump Start_002.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Punk Girl/Jump Start/Jump Start_003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Punk Girl/Jump Start/Jump Start_003.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Punk Girl/Jump Start/Jump Start_004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Punk Girl/Jump Start/Jump Start_004.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Punk Girl/Jump Start/Jump Start_005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Punk Girl/Jump Start/Jump Start_005.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "assets/Sounds/FX/point.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets/Sounds/FX/point.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -544,11 +734,11 @@
           "deceleration": 1500,
           "gravity": 1000,
           "ignoreDefaultControls": false,
-          "jumpSpeed": 600,
+          "jumpSpeed": 750,
           "jumpSustainTime": 0.2,
           "ladderClimbingSpeed": 150,
           "maxFallingSpeed": 700,
-          "maxSpeed": 250,
+          "maxSpeed": 400,
           "name": "PlatformerObject",
           "slopeMaxAngle": 60,
           "type": "PlatformBehavior::PlatformerObjectBehavior",
@@ -563,8 +753,8 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
+              "looping": true,
+              "timeBetweenFrames": 0.04,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
@@ -1439,8 +1629,8 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
+              "looping": true,
+              "timeBetweenFrames": 0.04,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
@@ -2309,6 +2499,462 @@
               ]
             }
           ]
+        },
+        {
+          "name": "fall",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.04,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets/Animations/Punk Girl/Falling Down/Falling Down_000.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 168,
+                        "y": 33
+                      },
+                      {
+                        "x": 381,
+                        "y": 33
+                      },
+                      {
+                        "x": 381,
+                        "y": 472
+                      },
+                      {
+                        "x": 168,
+                        "y": 472
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets/Animations/Punk Girl/Falling Down/Falling Down_001.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 168,
+                        "y": 33
+                      },
+                      {
+                        "x": 381,
+                        "y": 33
+                      },
+                      {
+                        "x": 381,
+                        "y": 472
+                      },
+                      {
+                        "x": 168,
+                        "y": 472
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets/Animations/Punk Girl/Falling Down/Falling Down_002.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 168,
+                        "y": 33
+                      },
+                      {
+                        "x": 381,
+                        "y": 33
+                      },
+                      {
+                        "x": 381,
+                        "y": 472
+                      },
+                      {
+                        "x": 168,
+                        "y": 472
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets/Animations/Punk Girl/Falling Down/Falling Down_003.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 168,
+                        "y": 33
+                      },
+                      {
+                        "x": 381,
+                        "y": 33
+                      },
+                      {
+                        "x": 381,
+                        "y": 472
+                      },
+                      {
+                        "x": 168,
+                        "y": 472
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets/Animations/Punk Girl/Falling Down/Falling Down_004.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 168,
+                        "y": 33
+                      },
+                      {
+                        "x": 381,
+                        "y": 33
+                      },
+                      {
+                        "x": 381,
+                        "y": 472
+                      },
+                      {
+                        "x": 168,
+                        "y": 472
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets/Animations/Punk Girl/Falling Down/Falling Down_005.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 168,
+                        "y": 33
+                      },
+                      {
+                        "x": 381,
+                        "y": 33
+                      },
+                      {
+                        "x": 381,
+                        "y": 472
+                      },
+                      {
+                        "x": 168,
+                        "y": 472
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "jump",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.02,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets/Animations/Punk Girl/Jump Start/Jump Start_000.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 168,
+                        "y": 33
+                      },
+                      {
+                        "x": 381,
+                        "y": 33
+                      },
+                      {
+                        "x": 381,
+                        "y": 472
+                      },
+                      {
+                        "x": 168,
+                        "y": 472
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets/Animations/Punk Girl/Jump Start/Jump Start_001.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 168,
+                        "y": 33
+                      },
+                      {
+                        "x": 381,
+                        "y": 33
+                      },
+                      {
+                        "x": 381,
+                        "y": 472
+                      },
+                      {
+                        "x": 168,
+                        "y": 472
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets/Animations/Punk Girl/Jump Start/Jump Start_002.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 168,
+                        "y": 33
+                      },
+                      {
+                        "x": 381,
+                        "y": 33
+                      },
+                      {
+                        "x": 381,
+                        "y": 472
+                      },
+                      {
+                        "x": 168,
+                        "y": 472
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets/Animations/Punk Girl/Jump Start/Jump Start_003.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 168,
+                        "y": 33
+                      },
+                      {
+                        "x": 381,
+                        "y": 33
+                      },
+                      {
+                        "x": 381,
+                        "y": 472
+                      },
+                      {
+                        "x": 168,
+                        "y": 472
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets/Animations/Punk Girl/Jump Start/Jump Start_004.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 168,
+                        "y": 33
+                      },
+                      {
+                        "x": 381,
+                        "y": 33
+                      },
+                      {
+                        "x": 381,
+                        "y": 472
+                      },
+                      {
+                        "x": 168,
+                        "y": 472
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets/Animations/Punk Girl/Jump Start/Jump Start_005.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 168,
+                        "y": 33
+                      },
+                      {
+                        "x": 381,
+                        "y": 33
+                      },
+                      {
+                        "x": 381,
+                        "y": 472
+                      },
+                      {
+                        "x": 168,
+                        "y": 472
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     }
@@ -2322,7 +2968,20 @@
     ]
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "Score",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "folded": true,
+      "name": "Coins",
+      "type": "number",
+      "value": 0
+    }
+  ],
   "layouts": [
     {
       "b": 209,
@@ -2344,7 +3003,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.36458333333333337,
+        "zoomFactor": 0.6197916666666664,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -2389,12 +3048,127 @@
           "depth": 1,
           "height": 128,
           "layer": "",
+          "locked": true,
           "name": "tiles",
           "persistentUuid": "2eb9ee9f-4bf3-47ea-9565-3e8c03256190",
+          "sealed": true,
           "width": 2097,
           "x": -90,
-          "y": 980,
+          "y": 960,
           "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 83,
+          "layer": "UI",
+          "locked": true,
+          "name": "ScoreText",
+          "persistentUuid": "059dd6be-4ea5-42aa-a1b9-e2de7a0d8daf",
+          "width": 253,
+          "x": 150,
+          "y": 50,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 85,
+          "layer": "UI",
+          "locked": true,
+          "name": "ScoreImg",
+          "persistentUuid": "7a3e467a-db7b-42c9-8df1-4b9ad4833600",
+          "sealed": true,
+          "width": 80,
+          "x": 45,
+          "y": 45,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Plat1",
+          "persistentUuid": "d3ea83c4-d8c0-4ab4-a89c-ffb0345efc74",
+          "width": 0,
+          "x": 775,
+          "y": 802,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Plat2",
+          "persistentUuid": "6ebc014c-fe40-4af1-82ff-a194104f250a",
+          "width": 0,
+          "x": 1308,
+          "y": 691,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 60,
+          "layer": "",
+          "name": "coin1",
+          "persistentUuid": "b660807c-8836-4f1a-a30a-f623246d6611",
+          "width": 60,
+          "x": 1081,
+          "y": 724,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 60,
+          "layer": "",
+          "name": "coin1",
+          "persistentUuid": "b552079e-b1c1-418a-abe0-350a8adf1ee3",
+          "width": 60,
+          "x": 1206,
+          "y": 891,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 60,
+          "layer": "",
+          "name": "coin1",
+          "persistentUuid": "7737d22b-5cd5-4d7b-951f-637a43405eac",
+          "width": 60,
+          "x": 1456,
+          "y": 718,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2469,7 +3243,15 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -2520,6 +3302,298 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "ScoreText",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "00",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 75,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "ScoreImg",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Props/copa-modificada.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 702,
+                            "y": 0
+                          },
+                          {
+                            "x": 702,
+                            "y": 800
+                          },
+                          {
+                            "x": 1,
+                            "y": 800
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Plat1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Pads/Pad_3_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 417,
+                            "y": 0
+                          },
+                          {
+                            "x": 417,
+                            "y": 113
+                          },
+                          {
+                            "x": 0,
+                            "y": 113
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "Plat2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Pads/Pad_1_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 18.5,
+                            "y": 183.5
+                          },
+                          {
+                            "x": 0,
+                            "y": 139.5
+                          },
+                          {
+                            "x": 386,
+                            "y": 146
+                          },
+                          {
+                            "x": 367,
+                            "y": 180.5
+                          },
+                          {
+                            "x": 310.5,
+                            "y": 212.5
+                          },
+                          {
+                            "x": 60,
+                            "y": 219.5
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "coin1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "folded": true,
+              "name": "ValueCoins",
+              "type": "number",
+              "value": 10
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Bonus/Bonus_4_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 139,
+                            "y": 0
+                          },
+                          {
+                            "x": 139,
+                            "y": 139
+                          },
+                          {
+                            "x": 0,
+                            "y": 139
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -2529,11 +3603,367 @@
             "objectName": "background"
           },
           {
+            "objectName": "Plat1"
+          },
+          {
+            "objectName": "Plat2"
+          },
+          {
+            "objectName": "coin1"
+          },
+          {
+            "objectName": "ScoreText"
+          },
+          {
+            "objectName": "ScoreImg"
+          },
+          {
             "objectName": "tiles"
           }
         ]
       },
-      "events": [],
+      "events": [
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Player",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::CurrentSpeed"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject",
+                    "<",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlipX"
+                  },
+                  "parameters": [
+                    "player",
+                    "Flippable",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::CurrentSpeed"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject",
+                    ">",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlipX"
+                  },
+                  "parameters": [
+                    "player",
+                    "Flippable",
+                    "no"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsOnFloor"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "player",
+                    "Animation",
+                    "=",
+                    "\"walk\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsOnFloor"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "player",
+                    "Animation",
+                    "=",
+                    "\"idle\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsJumping"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "player",
+                    "Animation",
+                    "=",
+                    "\"jump\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "player",
+                    "Animation",
+                    "=",
+                    "\"fall\""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "score",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "coin1",
+                    "player",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "Score",
+                    "+",
+                    "10"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    ".1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "assets/Sounds/FX/point.wav",
+                    "1",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "ScoreText",
+                    "Text",
+                    "=",
+                    "ToString(GlobalVariable(Score))"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "coin1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DepartScene"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
+              "actions": []
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "camera",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "CentreCamera"
+                  },
+                  "parameters": [
+                    "",
+                    "player",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ClampCamera"
+                  },
+                  "parameters": [
+                    "",
+                    "0",
+                    "0",
+                    "6000",
+                    "1000",
+                    "",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        }
+      ],
       "layers": [
         {
           "ambientLightColorB": 200,
@@ -2661,6 +4091,10 @@
           "type": "OpacityCapability::OpacityBehavior"
         },
         {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior"
         },
@@ -2671,6 +4105,10 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
         }
       ]
     }
