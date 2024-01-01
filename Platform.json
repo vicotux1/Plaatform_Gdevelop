@@ -712,6 +712,384 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Idle/Idle_000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Idle/Idle_000.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Idle/Idle_001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Idle/Idle_001.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Idle/Idle_002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Idle/Idle_002.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Idle/Idle_003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Idle/Idle_003.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Idle/Idle_004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Idle/Idle_004.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Idle/Idle_005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Idle/Idle_005.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Idle/Idle_006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Idle/Idle_006.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Idle/Idle_007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Idle/Idle_007.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Idle/Idle_008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Idle/Idle_008.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Idle/Idle_009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Idle/Idle_009.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Idle/Idle_010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Idle/Idle_010.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Idle/Idle_011.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Idle/Idle_011.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Walking/Walking_000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Walking/Walking_000.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Walking/Walking_001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Walking/Walking_001.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Walking/Walking_002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Walking/Walking_002.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Walking/Walking_003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Walking/Walking_003.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Walking/Walking_004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Walking/Walking_004.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Walking/Walking_005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Walking/Walking_005.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Walking/Walking_006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Walking/Walking_006.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Walking/Walking_007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Walking/Walking_007.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Walking/Walking_008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Walking/Walking_008.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Walking/Walking_009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Walking/Walking_009.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Walking/Walking_010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Walking/Walking_010.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Walking/Walking_011.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Walking/Walking_011.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Walking/Walking_012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Walking/Walking_012.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Walking/Walking_013.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Walking/Walking_013.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Walking/Walking_014.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Walking/Walking_014.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Walking/Walking_015.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Walking/Walking_015.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Walking/Walking_016.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Walking/Walking_016.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Walking/Walking_017.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Walking/Walking_017.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_000.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_001.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_002.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_003.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_004.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_005.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_006.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_007.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_008.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_009.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_010.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_011.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_011.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -3003,7 +3381,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6197916666666664,
+        "zoomFactor": 0.4163025217733326,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -3103,8 +3481,8 @@
           "name": "Plat1",
           "persistentUuid": "d3ea83c4-d8c0-4ab4-a89c-ffb0345efc74",
           "width": 0,
-          "x": 775,
-          "y": 802,
+          "x": 362,
+          "y": 807,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -3134,8 +3512,8 @@
           "name": "coin1",
           "persistentUuid": "b660807c-8836-4f1a-a30a-f623246d6611",
           "width": 60,
-          "x": 1081,
-          "y": 724,
+          "x": 665,
+          "y": 741,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -3150,8 +3528,8 @@
           "name": "coin1",
           "persistentUuid": "b552079e-b1c1-418a-abe0-350a8adf1ee3",
           "width": 60,
-          "x": 1206,
-          "y": 891,
+          "x": 1110,
+          "y": 889,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -3170,6 +3548,48 @@
           "y": 718,
           "zOrder": 7,
           "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 190,
+          "layer": "",
+          "name": "Zomby1",
+          "persistentUuid": "6f4f672e-7583-46db-80c5-e648748aaad3",
+          "width": 200,
+          "x": 1244,
+          "y": 680,
+          "zOrder": 8,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 0
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 1,
+          "customSize": true,
+          "depth": 0,
+          "height": 190,
+          "layer": "",
+          "name": "Zomby1",
+          "persistentUuid": "681a59a2-ef96-4e6a-9aad-7081d72ca0bb",
+          "width": 200,
+          "x": 356,
+          "y": 662,
+          "zOrder": 8,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 0
+            }
+          ],
           "stringProperties": [],
           "initialVariables": []
         }
@@ -3385,7 +3805,7 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": true,
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
           "name": "Plat1",
           "type": "Sprite",
@@ -3429,19 +3849,19 @@
                         [
                           {
                             "x": 0,
-                            "y": 0
+                            "y": 17.5
                           },
                           {
-                            "x": 417,
-                            "y": 0
+                            "x": 417.5,
+                            "y": 15.5
                           },
                           {
-                            "x": 417,
-                            "y": 113
+                            "x": 381.5,
+                            "y": 80.5
                           },
                           {
-                            "x": 0,
-                            "y": 113
+                            "x": 60.5,
+                            "y": 80.5
                           }
                         ]
                       ]
@@ -3594,6 +4014,1594 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "Zomby1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "folded": true,
+              "name": "value",
+              "type": "number",
+              "value": 30
+            }
+          ],
+          "effects": [],
+          "behaviors": [
+            {
+              "acceleration": 3000,
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 0,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 400,
+              "name": "PlatformerObject",
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "useLegacyTrajectory": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.05,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Idle/Idle_000.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Idle/Idle_001.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Idle/Idle_002.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Idle/Idle_003.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Idle/Idle_004.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Idle/Idle_005.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Idle/Idle_006.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Idle/Idle_007.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Idle/Idle_008.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Idle/Idle_009.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Idle/Idle_010.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Idle/Idle_011.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "walk",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.04,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Walking/Walking_000.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Walking/Walking_001.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Walking/Walking_002.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Walking/Walking_003.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Walking/Walking_004.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Walking/Walking_005.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Walking/Walking_006.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Walking/Walking_007.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Walking/Walking_008.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Walking/Walking_009.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Walking/Walking_010.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Walking/Walking_011.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Walking/Walking_012.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Walking/Walking_013.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Walking/Walking_014.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Walking/Walking_015.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Walking/Walking_016.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Walking/Walking_017.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "attack",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.04,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_000.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_001.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_002.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_003.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_004.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_005.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_006.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_007.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_008.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_009.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_010.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Animations/Tiny Zombie 01/Attacking/Attacking_011.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 296.5,
+                            "y": 76
+                          },
+                          {
+                            "x": 301.5,
+                            "y": 309
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -3619,6 +5627,9 @@
           },
           {
             "objectName": "tiles"
+          },
+          {
+            "objectName": "Zomby1"
           }
         ]
       },
@@ -3894,10 +5905,11 @@
                 },
                 {
                   "type": {
-                    "value": "Cache"
+                    "value": "Delete"
                   },
                   "parameters": [
-                    "coin1"
+                    "coin1",
+                    ""
                   ]
                 }
               ]
@@ -3914,7 +5926,93 @@
                   ]
                 }
               ],
-              "actions": []
+              "actions": [
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Zomby1",
+                    "Animation",
+                    "=",
+                    "\"walk\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateRightKey"
+                  },
+                  "parameters": [
+                    "Zomby1",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlipX"
+                  },
+                  "parameters": [
+                    "Zomby1",
+                    "Flippable",
+                    "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateLeftKey"
+                  },
+                  "parameters": [
+                    "Zomby1",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+                  },
+                  "parameters": [
+                    "Zomby1",
+                    "PlatformerObject",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Zomby1",
+                    "Animation",
+                    "=",
+                    "\"idle\""
+                  ]
+                }
+              ]
             }
           ],
           "parameters": []
